@@ -2,5 +2,7 @@
 
 	$nombre = 2;
 	echo $nombre;
+	
+	echo 'Ici les modifs de Greg';
 
 ?>
