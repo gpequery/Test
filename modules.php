@@ -3,6 +3,10 @@
 	function premierModule() {
 		
 	}
+	
+	function deuxiemeModule() {
+		
+	}
 
 
 ?>
